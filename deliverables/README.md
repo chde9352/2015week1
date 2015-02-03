@@ -66,8 +66,14 @@ What are values?
 The variable name is the usual way to reference the stored value; this separation of name and content allows the name to be used independently of the exact information it represents. The identifier in computer source code can be bound to a value during run time, and the value of the variable may thus change during the course of program execution
 
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
+The idea behind inheritance is relatively easy to understand. Elements inherit styles from their parent container. If you set the body tag to use color: red then the text for all elements inside the body will also be red unless otherwise specified.
+
 What are two CSS attributes you can change to push an element around on the page?  
+An absolutely positioned element is always relative to the next positioned parent. If there isn't a parent element, the containment block is used instead. Values for left and top are relative to the upper-left corner of the next positioned element in the hierarchy. For example, to place an image at the top left corner of the document, set the attributes to 0.  Fixed positioning is also another attribute you can add to an element.  
+
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
+CSS can be used to move an element, change design, or edit a web page.
+
 
 ---
 ### Section 3: Git and Github  
