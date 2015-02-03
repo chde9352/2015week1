@@ -78,15 +78,36 @@ CSS can be used to move an element, change design, or edit a web page.
 ---
 ### Section 3: Git and Github  
 What is Git?  
+Git is an open source program for tracking changes in text files. It was written by the author of the Linux operating system, and is the core technology that GitHub, the social and user interface, is built on top of.
+
 What is SCM?  
+A source code manager (SCM) is a software tool used by teams of programmers to manage source code.
+SCMs are used to track revisions in software. Each revision is given a timestamp and includes the name of the person who is responsible for the change. Various revisions may be compared, stored, and merged with other revisions.  
+
 What is a VCS?  
+Revision control, also known as version control and source control (and an aspect of software configuration management), is the management of changes to documents, computer programs, large web sites, and other collections of information. Changes are usually identified by a number or letter code, termed the "revision number", "revision level", or simply "revision". For example, an initial set of files is "revision 1". When the first change is made, the resulting set is "revision 2", and so on. Each revision is associated with a timestamp and the person making the change. Revisions can be compared, restored, and with some types of files, merged.
+
 Why is Git useful for a developer?  
+It is a way to organize and develop your code. 
+
 Why is Git useful for a team of developers?  
+Code can be managed and edited online to allow a team to work together
+
 How do you create a new Git repository for a project locally?  
+first takes an existing project or directory and imports it into Git. The second clones an existing Git repository from another server.
+
 How do you create it on Github?  
+In the upper-right corner of any page, click , and then click New repository.
+
 How do you commit changes?  
+At the bottom of the code page as long as you are owner of the code you can commit changes or suggest them.
+
 What is the difference between staging and committing changes?  
+Stage to Commit would be for a file that already has changes being tracked which you've since altered. You would generally only "add" a file once to begin tracking changes, and thereafter you would simply stage the file for commit that you've changed.
+
 What is the difference between committing your changes and pushing them to Github?  
+Creating a commit is like saving a file—you are telling Git that you’d like to remember this point in history.Click the “Publish” button in the upper-right corner and GitHub Desktop will ask you what kind of repository to create:
+
 What is the command to check the status of your current repo in git?  
 What is the command to see the history of your previous commits (from the command line)?  What are a few interesting variations (sets of options)?  
 How can you look through your historical commits on the Github website?  
