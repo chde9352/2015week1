@@ -38,16 +38,33 @@ Why do we separate HTML and CSS?
 
 That way it is easy to distinguish the content we are editing rather than the design of the code.
 #### HTML
-What are classes and IDs (and how are they different)?  ID's are unique throughout the code and allow you to label and edit one aspect while Classes are not unique and allow you to access and edit more than one portion of code at a time. 
-What are elements?  Elements are used to organize the components of code in a web page. 
+What are classes and IDs (and how are they different)? 
+ID's are unique throughout the code and allow you to label and edit one aspect while Classes are not unique and allow you to access and edit more than one portion of code at a time. 
+
+What are elements?  
+Elements are used to organize the components of code in a web page. They always have two tags, a beginning and end. 
+
 What are tags?  
-What are attributes?  
+Tags are used to define the HTML and apply something to the content. 
+
+What are attributes?   
+There are many different kind of attributes that can go inside a tag to modify the current tag. 
+
 What are forms?  
-What is a div?  
+Forms are used within webpages to make the website more interactive and gather information, it takes some kind of information and sends it to some kind of database. 
+
+What is a div? 
+Div tag works as a container for HTML code and can be used to combine / label code. 
 
 What are selectors?  
+In CSS, selectors are patterns used to select the element(s) you want to style.
+
 What are properties?  
+Code can have properties just like a dog has fur, a tail, and eye color. 
+
 What are values?  
+The variable name is the usual way to reference the stored value; this separation of name and content allows the name to be used independently of the exact information it represents. The identifier in computer source code can be bound to a value during run time, and the value of the variable may thus change during the course of program execution
+
 How do CSS styles for a particular element get inherited? ie. how does an element get its "default" styles?  
 What are two CSS attributes you can change to push an element around on the page?  
 What are the three different ways to include CSS in your project or use CSS to style a particular element?  
