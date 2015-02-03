@@ -21,10 +21,11 @@ For projects on Code Academy, or other external exercises, please just paste a l
 
 ### Section 1: The Front End
 #### Required - Answer these questions in the deliverables file, and complete the following. 
+
 What is the role of HTML in a web page?  
-HTML is the language, or code, used to edit and position the text, images, frames and other web page elements.
+HTML is the language, or code, used to edit and position the text, images, frames and other web page elements. Its purely for content. 
 What is the role of CSS in a web page? 
-CSS is an enhanced form of HTML, and makes it easier to edit the looks of a web page. 
+CSS is an enhanced form of HTML, and makes it easier to edit the design of a web page. 
 What is the role of Javascript in a web page?  
 Java script primarily to make a website more active or visual, it can not go without html / css and works with it but is seperate from html and css. 
 
@@ -33,11 +34,12 @@ Java script primarily to make a website more active or visual, it can not go wit
 ### Section 2: HTML and CSS 101
 
 #### meta
-Why do we separate HTML and CSS?  
+Why do we separate HTML and CSS? 
 
+That way it is easy to distinguish the content we are editing rather than the design of the code.
 #### HTML
-What are classes and IDs (and how are they different)?  
-What are elements?  
+What are classes and IDs (and how are they different)?  ID's are unique throughout the code and allow you to label and edit one aspect while Classes are not unique and allow you to access and edit more than one portion of code at a time. 
+What are elements?  Elements are used to organize the components of code in a web page. 
 What are tags?  
 What are attributes?  
 What are forms?  
